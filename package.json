@@ -1,0 +1,22 @@
+{
+  "name": "@tencent/mqqrn-cli",
+  "version": "1.0.0",
+  "description": "React Native is distributed as two npm packages, `react-native-cli` and `react-native`. The first one is a lightweight package that should be installed globally (`npm install -g react-native-cli`), while the second one contains the actual React Native framework code and is installed locally into your project when you run `react-native init`.",
+  "main": "index.js",
+  "dependencies": {
+    "chalk": "^1.1.1",
+    "minimist": "^1.2.0",
+    "prompt": "^0.2.14",
+    "semver": "^5.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://git.code.oa.com/tennylv/mqqrn-cli.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
